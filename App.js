@@ -2,6 +2,7 @@ import {Component} from 'react';
 import {Text, View} from 'react-native';
 import ClassComp from './src/ClassComp';
 
+console.log("hello")
 class App extends Component {
   constructor(props) {
     super(props);
