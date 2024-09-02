@@ -38,7 +38,7 @@ class App extends Component {
           onPress={() => {
             this.setState({count: this.state.count + 1});
           }}>
-          {'Increase Count'}
+          {'Increase Countdsfsdfsdfsdf'}
         </Text>
 
         {this.state.count<10 && <ClassComp name={'hello'}/>}
