@@ -13,6 +13,7 @@ class App extends Component {
   }
 
   componentDidMount() {
+    console.log("changes made by dev2")
     console.log('componentDidMount');
   }
 
